@@ -1,1 +1,1 @@
-# HTML-full-course
+# HTML-course
